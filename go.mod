@@ -1,4 +1,4 @@
-module amf_kafka
+module github.com/mft-labs/amf_kafka
 
 go 1.16
 
